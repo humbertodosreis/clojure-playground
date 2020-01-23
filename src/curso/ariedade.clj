@@ -1,8 +1,8 @@
 (ns curso.ariedade)
 ;; Definimos uma coleção de clientes
 (def clientes [
-               {:nome "Humberto" :cpf "33344455599" :data-nascimento "11/01/1984"}
-               {:nome "Fernanda" :cpf "22233311100" :data-nascimento "16/09/1983"}
+               {:nome "Humberto" :cpf "33344455599" :data-nascimento "11/01/1980"}
+               {:nome "Fernanda" :cpf "22233311100" :data-nascimento "16/09/1981"}
                ])
 
 ;; impressão de cada cliente da coleção
